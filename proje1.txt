@@ -1,11 +1,15 @@
+
 DİZİ: [22,27,16,2,18,6]
+- Verinin sort türüne göre aşamaları
 1.	[2,27,16,22,18,6]
 2.	[2,6,16,22,18,27]
 3.	[2,6,16,18,22,27]
 
+-Dizinin Big-O gösterimi
 Dizinin Big-o gösterimi O(n^2) dir.
 Time complexity: Dizide 18 sayısı “avarage case” kapsamındadır.
 
+-2. Dizinin selection sort a göre ilk dört aşaması
 DİĞER DİZİ: [7,3,5,8,2,9,4,15,6]
 Bu dizinin ilk dört aşaması aşağıdaki gibidir;
 1.	[7, 3, 5, 8, 2, 9, 4, 15, 6] - Başlangıç 
